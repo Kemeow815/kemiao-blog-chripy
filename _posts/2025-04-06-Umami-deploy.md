@@ -1,8 +1,7 @@
 ---
 title: Umami博客访问统计Vercel+Cloudflare Wokers部署
-description: Umami博客访问统计Vercel+Cloudflare Wokers部署
+description: Umami博客访问统计Vercel+Cloudflare Wokers部署。
 date: 2025-04-06 23:25:55 +0800
-comments: true
 categories: [教程]
 tags: [Umami部署]
 pin: true
