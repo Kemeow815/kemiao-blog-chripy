@@ -40,9 +40,10 @@ social:
   email: kemiaofx@163.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/kemiaosw # change to your Twitter homepage
-    - https://github.com/Kemeow815 # change to your GitHub homepage
-    - https://t.me/Kemiaojun
+    - https://github.com/Kemeow815
+    - https://t.me/Kemiaojun  # change to your Twitter homepage
+    - https://twitter.com/kemiaosw 
+
     # Uncomment below to add more social links
     - https://t.me/Kemiaojun
     - https://www.facebook.com/kemiaosw
