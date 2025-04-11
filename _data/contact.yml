@@ -3,8 +3,12 @@
 - type: github
   icon: "fab fa-github"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+# - type: twitter
+#   icon: "fa-brands fa-x-twitter"
+
+- type: Telegram
+  icon: "fab fa-telegram"
+  url: 'https://t.me/KemiaoJun'
 
 - type: email
   icon: "fas fa-envelope"
@@ -13,9 +17,6 @@
 - type: rss
   icon: "fas fa-rss"
   noblank: true
-
-- type: Telegram
-  icon: "fab fa-telegram"
 
 - type: Facebook
   icon: "fab fa-facebook-square"
