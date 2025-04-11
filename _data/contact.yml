@@ -16,7 +16,12 @@
 
 - type: Telegram
   icon: "fab fa-telegram"
+
+- type: Facebook
+  icon: "fab fa-facebook-square"
 # Uncomment and complete the url below to enable more contact options
+- type: Facebook
+  icon: "fab fa-facebook-square"
 #
 # - type: mastodon
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
