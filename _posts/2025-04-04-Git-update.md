@@ -8,7 +8,7 @@ tags: [Git教程]
 pin: true
 math: true
 mermaid: true
-author: 克喵爱吃卤面
+author: <author_id> 
 ---
 
 ## Git 同步上游仓库的更新
