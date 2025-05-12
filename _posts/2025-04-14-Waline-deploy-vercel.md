@@ -35,11 +35,7 @@ comments: true
 ---
 ## 在 Vercel 部署
 
-<div style="text-align: center;">
-  <a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fwalinejs%2Fwaline%2Ftree%2Fmain%2Fexample" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/vercel.svg" alt="Deploy with Vercel" style="width: auto; height: 40px;" />
-  </a>
-</div>
+[![Vercel](https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/vercel.svg)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fwalinejs%2Fwaline%2Ftree%2Fmain%2Fexample)
 
 1. 点击上方按钮，跳转至 Vercel 进行 Server 端部署。
 
@@ -83,7 +79,7 @@ comments: true
    | ----- | ------- | ----------------------------------------------------------- |
    | CNAME | example | cname.vercel-dns.com(国区的可用 cname-china.vercel-dns.com) |
 
-1. 等待生效，你可以通过自己的域名来访问了:tada:
+1. 等待生效，你可以通过自己的域名来访问了。
 
    - 评论系统：example.yourdomain.com
    - 评论管理：example.yourdomain.com/ui
@@ -124,7 +120,7 @@ comments: true
    </body>
    ```
 
-1. 评论服务此时就会在你的网站上成功运行 :tada:
+1. 评论服务此时就会在你的网站上成功运行。
 
 ## 评论管理 (管理端)
 
