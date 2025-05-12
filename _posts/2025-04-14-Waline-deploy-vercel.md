@@ -34,8 +34,10 @@ comments: true
 
 ---
 ## 在 Vercel 部署
-<div align="center">
-  [![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fwalinejs%2Fwaline%2Ftree%2Fmain%2Fexample)
+<div class="flex justify-center">
+  <a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fwalinejs%2Fwaline%2Ftree%2Fmain%2Fexample" target="_blank" rel="noopener noreferrer">
+    <img src="https://vercel.com/button" alt="Deploy with Vercel" />
+  </a>
 </div>
 
 1. 点击上方按钮，跳转至 Vercel 进行 Server 端部署。
