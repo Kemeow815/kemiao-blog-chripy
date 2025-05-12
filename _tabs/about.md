@@ -6,7 +6,16 @@ order: 4
 
 ### Hello
 
-<a href="https://blog-v3.kemeow.top/"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
+<div style="text-align: center; margin: 20px 0;">
+  <a href="https://blog-v3.kemeow.top/">
+    <img 
+      src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" 
+      alt="GIF Link" 
+      height="275" 
+      style="max-width: 100%; height: auto; display: inline-block;"
+    />
+  </a>
+</div>
 
 - 🔭 I’m currently studying in Nanjing
 - 🌱 Current learning content: Automation Technology and Applications, front-end (sub), etc
@@ -27,8 +36,6 @@ order: 4
 [个人主页](https://kemiao.online) | [博客站点](https://blog-v3.kemeow.top)
 
 大家好！这里是克喵爱吃卤面的博客。致力于分享资源、生活日记和踩坑教程，代码水准一般，自动化专业大二学生，现于南京就读，普通的大学牛马。
-
-<img align='right' src="./static/avatar.png" width="150" alt="person">
 
 ### 关于我
 
