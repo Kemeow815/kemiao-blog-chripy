@@ -58,6 +58,14 @@ order: 4
   </a>
 </p>
 
+<div align="center">
+  <img 
+    src="https://github-immortality.vercel.app/api?username=Kemeow815" 
+    alt="修仙系列统计卡片" 
+    style="max-width: 100%; height: auto;" 
+  />
+</div>
+
 ---
 
 ### 赞助
