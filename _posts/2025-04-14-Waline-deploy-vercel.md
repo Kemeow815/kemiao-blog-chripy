@@ -34,7 +34,9 @@ comments: true
 
 ---
 ## 在 Vercel 部署
-[![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fwalinejs%2Fwaline%2Ftree%2Fmain%2Fexample)
+<div align="center">
+  [![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fwalinejs%2Fwaline%2Ftree%2Fmain%2Fexample)
+</div>
 
 1. 点击上方按钮，跳转至 Vercel 进行 Server 端部署。
 
@@ -139,13 +141,13 @@ comments: true
 
 > UP 主：[rickroll 摇](https://space.bilibili.com/381992209)
 
-<BiliBili bvid="BV1pB4y1E7fp" />
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=603711299&bvid=BV1pB4y1E7fp&cid=851182849&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ### 使用 Vercel 简单地部署 Waline 评论系统
 
 > UP 主：[岚天呀](https://space.bilibili.com/355877984)
 
-<BiliBili bvid="BV1Ft4y1A73f" />
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=986143204&bvid=BV1Ft4y1A73f&cid=851363812&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ---
 
