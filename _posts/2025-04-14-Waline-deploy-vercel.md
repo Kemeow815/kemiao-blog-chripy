@@ -34,19 +34,16 @@ comments: true
 
 ---
 ## 在 Vercel 部署
-<div class="flex justify-center">
-  <a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fwalinejs%2Fwaline%2Ftree%2Fmain%2Fexample" target="_blank" rel="noopener noreferrer">
+
+<div style="text-align: center;">
+  <a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fwalinejs%2Fwaline%2Ftree%2Fmain%2Fexample">
     <img src="https://vercel.com/button" alt="Deploy with Vercel" />
   </a>
 </div>
 
 1. 点击上方按钮，跳转至 Vercel 进行 Server 端部署。
 
-   ::: note
-
    如果你未登录的话，Vercel 会让你注册或登录，请使用 GitHub 账户进行快捷登录。
-
-   :::
 
 1. 输入一个你喜欢的 Vercel 项目名称并点击 `Create` 继续:
 
