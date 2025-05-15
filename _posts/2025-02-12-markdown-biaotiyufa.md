@@ -1,6 +1,6 @@
 ---
 title: Markdown-标题语法 | 技术分享
-description: 记记录 Markdown 语法的标题语法,方便学习和查找。
+description: 记录 Markdown 语法的标题语法,方便学习和查找。
 date: 2025-02-12 18:15 +0800
 image: https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/biaotiyufa.png
 categories: [教程]
