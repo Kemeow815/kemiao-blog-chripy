@@ -78,4 +78,4 @@ order: 4
 ### 赞助
 
 - 微信公众号：[克喵的小站](https://wechat.kemeow.top/)
-- 赞助页面: [点我](https://donate.152531.xyz/)
+- 赞助页面: [点我](https://donate.kemeow.top/)
